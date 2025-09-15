@@ -8,11 +8,11 @@ CS, 프로그래밍 언어, 프레임워크, 데이터베이스, Web, 보안 관
 
 ## 📌 Index
 - [CS](#-cs)
-- [Programing Language](#Programing-Language)
-- [Framework](#Framework)
-- [Database](#Database)
-- [Web](#Web)
-- [Security](#Security)
+- [Programing Language](#-programing-language)
+- [Framework](#-framework)
+- [Database](#-database)
+- [Web](#-web)
+- [Security](#-security)
 
 ## 💡 Questions
 ### 🖥 CS
