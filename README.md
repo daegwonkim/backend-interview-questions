@@ -7,7 +7,7 @@
 CS, 프로그래밍 언어, 프레임워크, 데이터베이스, Web, 보안 관련 내용을 다룹니다.
 
 ## 📌 Index
-- [CS](#CS)
+- [CS](#cs)
 - [Programing Language](#Programing-Language)
 - [Framework](#Framework)
 - [Database](#Database)
