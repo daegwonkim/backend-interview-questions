@@ -19,7 +19,7 @@ CS, 프로그래밍 언어, 프레임워크, 데이터베이스, Web, 보안 관
   - [공통](#공통)
   - [Java](#java)
 - [Framework](#%EF%B8%8F-framework)
-  - [Spring](#-spring)
+  - [Spring](#spring)
 - [Database](#-database)
 - [Web](#-web)
 - [Security](#-security)
