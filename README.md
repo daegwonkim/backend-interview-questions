@@ -1197,9 +1197,9 @@ CS, 아키텍처, 프로그래밍 언어, 프레임워크, 데이터베이스, �
 
   Filter와 Interceptor는 모두 요청을 가로채서 전/후처리를 수행하는 기능이지만, 동작하는 레벨과 관리 주체가 다릅니다.
 
-  <b>Filter</b>는 서블릿 컨테이너 레벨에서 동작하며, Java EE 표준 기술입니다. 서블릿이 호출되기 전후에 실행되어 모든 요청에 대해 적용됩니다. 인코딩 처리, 보안 검사, 로깅 등 웹 애플리케이션 전역적인 처리에 사용됩니다.
+  <b>Filter</b>는 서블릿 컨테이너 레벨에서 동작하며, Java EE 표준 기술입니다. 서블릿이 호출되기 전후에 실행되어 모든 요청에 대해 적용됩니다. 주로 스프링과 무관하게 전역적으로 처리해야 하는 작업이 필요한 경우 사용됩니다.
 
-  <b>Interceptor</b>는 Spring MVC 레벨에서 동작하며, Spring 프레임워크에서 제공하는 기능입니다. DispatcherServlet이 Controller를 호출하기 전후에 실행되어 Spring MVC 요청에만 적용됩니다. 인증/인가, 로깅, Controller 공통 로직 처리 등에 사용됩니다.
+  <b>Interceptor</b>는 스프링 컨테이너 레벨에서 동작하며, Spring 프레임워크에서 제공하는 기능입니다. DispatcherServlet이 Controller를 호출하기 전후에 실행되어 Spring MVC 요청에만 적용됩니다. 주로 Controller 공통 로직 처리, Request/Response 로깅 등에 사용됩니다.
 </details>
 
 <details>
